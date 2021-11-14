@@ -1,0 +1,6 @@
+framework module Pods_Planets_SLTTests {
+  umbrella header "Pods-Planets SLTTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
